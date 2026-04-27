@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou a Julia Krisnarane 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Hi, I'm Osama Bin Al Kafi 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
 <p align="center">
